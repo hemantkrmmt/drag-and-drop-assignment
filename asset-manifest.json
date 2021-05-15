@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drag-and-drop-assignment/static/css/main.77d00b85.chunk.css",
+    "main.js": "/drag-and-drop-assignment/static/js/main.1ab5a146.chunk.js",
+    "main.js.map": "/drag-and-drop-assignment/static/js/main.1ab5a146.chunk.js.map",
+    "runtime-main.js": "/drag-and-drop-assignment/static/js/runtime-main.6daae380.js",
+    "runtime-main.js.map": "/drag-and-drop-assignment/static/js/runtime-main.6daae380.js.map",
+    "static/js/2.701b4550.chunk.js": "/drag-and-drop-assignment/static/js/2.701b4550.chunk.js",
+    "static/js/2.701b4550.chunk.js.map": "/drag-and-drop-assignment/static/js/2.701b4550.chunk.js.map",
+    "static/js/3.6e9c12d0.chunk.js": "/drag-and-drop-assignment/static/js/3.6e9c12d0.chunk.js",
+    "static/js/3.6e9c12d0.chunk.js.map": "/drag-and-drop-assignment/static/js/3.6e9c12d0.chunk.js.map",
+    "index.html": "/drag-and-drop-assignment/index.html",
+    "static/css/main.77d00b85.chunk.css.map": "/drag-and-drop-assignment/static/css/main.77d00b85.chunk.css.map",
+    "static/js/2.701b4550.chunk.js.LICENSE.txt": "/drag-and-drop-assignment/static/js/2.701b4550.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6daae380.js",
+    "static/js/2.701b4550.chunk.js",
+    "static/css/main.77d00b85.chunk.css",
+    "static/js/main.1ab5a146.chunk.js"
+  ]
+}
